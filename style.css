@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(255, 251, 240);
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color:darkseagreen;
+}
+a:hover{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    color:orange;
+}
+a:active{
+    text-decoration: none;
+}
+
+h1{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60pt;
+    text-align: left;
+    color:darkolivegreen;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left:0.6em;
+    margin-right: 1.0em;
+    }
+
+h2{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40pt;
+    color:darkolivegreen;
+    text-align: left;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 1.0em;
+    margin-right: 1.0em;
+    }
+
+p{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 38pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 1.0em;
+    margin-right: 1.0em;    
+    width: 100%;
+    text-align: left;
+}
